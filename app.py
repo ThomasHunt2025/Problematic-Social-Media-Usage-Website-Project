@@ -8,7 +8,7 @@ def h():
 def prob():
     return template('problematic.tpl')
 
-@route('teens')
+@route('/teens')
 def teens():
     return template('NZTeens.tpl')
 
