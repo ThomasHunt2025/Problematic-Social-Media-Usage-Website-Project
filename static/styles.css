@@ -1,0 +1,36 @@
+* {
+  box-sizing: border-box;
+  }
+
+body {
+margin: 40px;
+font-family: Intel One Mono;
+background: #030914;
+}
+
+nav {
+    height: 50px;
+    border-bottom: 1px solid #087fa5;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background-color: #061725;
+}
+
+nav a {
+    color: #00cfff;
+    text-decoration: none;
+    font-size: 27px;
+    transition: 0.2s;
+}
+
+nav a:hover {
+    color: white;
+    text-shadow: 0 0 10px #00cfff;
+}
+
+header {
+    color: #00D0FF; 
+    text-align: left;
+    font-size: 40px; 
+}

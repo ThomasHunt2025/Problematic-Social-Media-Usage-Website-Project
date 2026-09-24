@@ -1,9 +1,9 @@
-<!DOCTYPE html> 
+<!DOCTYPE html>
 
 <html>
 <head>
     <title>Home Page</title>
-    <link rel="stylesheet" href="/static/style.css">
+    <link rel="stylesheet" href="/static/styles.css">
 </head>
 
 <body> 
@@ -15,6 +15,9 @@
     <a href="/impacts">Impacts</a> 
 </nav>
 
+<header>
+    <h1>Personal Profile</h1> 
 <header> 
-   <h1>Personal Profile</h1> 
-</header> 
+
+</body>
+</html> 
