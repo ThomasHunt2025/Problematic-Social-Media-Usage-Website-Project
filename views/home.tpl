@@ -27,7 +27,7 @@
             <img src="/static/Personal-Profile.jpg" alt="Student Profile">
         </aside>
 
-        <!-- About Me -->
+        
         <section class="about">
             <p>
                 My name is Thomas Hunt, and I am a Year 11 student at Sacred Heart College.
@@ -38,7 +38,7 @@
             </p>
         </section>
 
-        <!-- Catholic Perspective -->
+        
         <section class="catholic">
             <p>
                 From a Catholic Perspective, I believe every person has dignity because they
@@ -51,7 +51,7 @@
 
         <!-- Hobbies -->
         <section class="hobbies">
-            <h2>Hobbies / Interests</h2>
+            <h2>Hobbies/Interests</h2>
 
             <div class="hobby-content">
                 <ul>
@@ -63,8 +63,6 @@
 
                 <ul>
                     <li>Basketball</li>
-                    <li>Gaming (Sometimes)</li>
-                    <li>Playing UNO</li>
                     <li>Playing Clarinet</li>
                 </ul>
 
