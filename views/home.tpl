@@ -49,7 +49,6 @@
             </p>
         </section>
 
-        <!-- Hobbies -->
         <section class="hobbies">
             <h2>Hobbies/Interests</h2>
 
@@ -72,7 +71,6 @@
 
     </section>
 
-    <!-- Social Media -->
     <section class="info-box">
         <h2>Social Media and My Generation</h2>
 
