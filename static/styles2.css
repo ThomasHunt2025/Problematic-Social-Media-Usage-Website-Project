@@ -44,21 +44,16 @@ header h1 {
     margin: 0;
 }
 
-/* Main */
 
 main {
     padding: 0 9px 15px 9px;
-}
-
-/* Problematic page */
+} 
 
 .problem-grid {
     display: grid;
 
-    /* Laptop-sized width */
     grid-template-columns: 360px 1fr;
 
-    /* Increased box heights */
     grid-template-rows:
         190px
         160px
@@ -68,8 +63,6 @@ main {
 
     gap: 12px 14px;
 }
-
-/* Boxes */
 
 .problem-box {
     background: #061725;
@@ -88,7 +81,6 @@ main {
     font-size: 20px;
 }
 
-/* Problematic social media use */
 
 .problematic {
     grid-column: 1;
@@ -100,35 +92,26 @@ main {
     padding-left: 12px;
 }
 
-/* Top image */
 
 .image:nth-of-type(2) {
     grid-column: 2;
     grid-row: 1;
 }
 
-/* Second image */
-
 .image:nth-of-type(3) {
     grid-column: 1;
     grid-row: 2;
 }
-
-/* Algorithm */
 
 .algorithm {
     grid-column: 2;
     grid-row: 2;
 }
 
-/* Myths and Facts */
-
 .myths {
     grid-column: 1;
     grid-row: 3 / 5;
 }
-
-/* Scrolling */
 
 .scrolling {
     grid-column: 2;
@@ -140,14 +123,10 @@ main {
     padding-left: 30px;
 }
 
-/* Evidence */
-
 .evidence {
     grid-column: 2;
     grid-row: 4;
 }
-
-/* My Summary */
 
 .summary {
     grid-column: 1 / 3;
