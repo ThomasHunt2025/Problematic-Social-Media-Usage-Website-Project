@@ -127,14 +127,14 @@ header h1 {
     display: grid;
     grid-template-columns: repeat(4, minmax(0, 1fr));
     grid-template-rows:
-        60px
-        180px
-        110px
-        110px
-        110px
-        110px
+        40px
         280px
-        200px;
+        191px
+        191px
+        191px
+        191px
+        280px
+        190px;
     gap: 9px 10px;
     width: 98%;
     max-width: 1366px;
