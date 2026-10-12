@@ -25,11 +25,11 @@
         <section class="problem-grid">
 
             <div class="problem-box problematic">
-                <span>Problematic social<br>media use</span>
+                <span>Image</span>
             </div>
 
             <div class="problem-box image">
-                <span>Image</span>
+                <span>Problematic social media use</span>
             </div>
 
             <div class="problem-box image">

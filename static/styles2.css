@@ -55,11 +55,11 @@ main {
     grid-template-columns: 360px 1fr;
 
     grid-template-rows:
-        190px
-        160px
-        180px
-        180px
-        160px;
+        250px
+        250px
+        195px
+        195px
+        250px;
 
     gap: 12px 14px;
 }
