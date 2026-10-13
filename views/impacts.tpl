@@ -55,7 +55,7 @@
             <span>Proposed solutions</span>
         </div> 
 
-        <div class="impacts-box solutions">
+        <div class="impacts-box conclusion">
             <span>Final Conclusion</span> 
         </div> 
 
