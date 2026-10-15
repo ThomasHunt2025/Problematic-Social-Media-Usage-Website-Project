@@ -25,7 +25,7 @@
         <section class="problem-grid">
 
             <div class="problem-box problematic">
-                <span>Image</span>
+                 <img src="/static/Social_Media_Image.jpg" alt="Social Media"> 
             </div>
 
             <div class="problem-box image">
@@ -38,7 +38,6 @@
             </div>
 
             <div class="problem-box image">
-                <span>Image</span>
             </div>
 
             <div class="problem-box algorithm">
