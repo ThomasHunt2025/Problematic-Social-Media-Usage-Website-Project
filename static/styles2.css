@@ -44,6 +44,11 @@ header h1 {
     margin: 0;
 }
 
+p { 
+    font-size: 18px;
+    padding: 12px;
+}
+
 
 main {
     padding: 0 9px 15px 9px;
