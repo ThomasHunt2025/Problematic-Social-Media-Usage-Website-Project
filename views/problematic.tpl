@@ -42,6 +42,8 @@
 
             <div class="problem-box algorithm">
                 <span>Algorithm</span>
+                
+                <p>Hi</p> 
             </div>
 
             <div class="problem-box myths">
