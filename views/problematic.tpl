@@ -25,21 +25,19 @@
         <section class="problem-grid">
 
             <div class="problem-box problematic">
-                <span>Image</span>
+                 <img src="/static/Social_Media_Image.jpg" alt="Social Media"> 
             </div>
 
             <div class="problem-box image">
                 <span>Problematic social media use</span>
                 
                 <p>Problematic Social Media use is defined as an excessive social media 
-                use that significantly disrupts functioning in areas such as school 
-                achievements, relationships and overall wellbeing. It is characterized by an 
-                unhealthy level of engagement that interferes with necessary activities for 
-                optimal development. </p> 
+                use that significantly disrupts functioning in areas such as school achievements, 
+                relationships and overall wellbeing. It is characterized by an unhealthy level of 
+                engagement that interferes with necessary activities for optimal development. </p>
             </div>
 
             <div class="problem-box image">
-                <span>Image</span>
             </div>
 
             <div class="problem-box algorithm">
