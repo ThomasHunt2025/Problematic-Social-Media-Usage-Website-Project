@@ -115,7 +115,21 @@
             </div>
 
             <div class="problem-box evidence">
-                <span>Evidence</span>
+                <span>Experts Opinions on "Scrolling our Lives away" statement</span>
+
+                <p>1. Dr Anne Lembkes central opinion is that digital devices act like 
+                "the modern equivalent of the hypoderemic needle," delivering a contiuos drip 
+                of digital drugs. She explains that social media and other digital activities 
+                stimulate the brain’s reward system, encouraging users to seek instant gratification. 
+                Over time, this can lead to excessive screen time, making it harder to disconnect and 
+                affecting sleep, schoolwork and relationships.</p>
+
+                <p>2. Tech ethicists Tristan Harris and Aza Raskin focus on how social media platforms 
+                are deliberately designed to capture and maintain users' attention. They explain that 
+                features such as infinite scrolling, autoplay and personalised recommendations encourage 
+                people to spend more time online. These features can make it difficult for users to stop 
+                scrolling, potentially contributing to problematic social media use and negatively affecting 
+                their daily lives.</p> 
             </div>
 
             <div class="problem-box summary">
