@@ -62,8 +62,8 @@ main {
     grid-template-rows:
         250px
         250px
-        195px
-        195px
+        355px
+        300px
         250px;
 
     gap: 12px 14px;
@@ -117,6 +117,64 @@ main {
     grid-column: 1;
     grid-row: 3 / 5;
 }
+
+
+.myths {
+    height: auto;
+    min-height: 350px;
+    overflow-x: auto;
+}
+
+.myths-table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px;
+    color: #00cfff;
+    font-size: 16px;
+    table-layout: fixed;
+}
+
+.myths-table th,
+.myths-table td {
+    border: 1px solid #087fa5;
+    padding: 12px;
+    text-align: left;
+    vertical-align: top;
+    overflow-wrap: anywhere;
+}
+
+.myths-table th {
+    background-color: #061725;
+    color: #00cfff;
+    font-weight: bold;
+}
+
+.myths-table td {
+    background-color: #030914;
+    line-height: 1.6;
+}
+
+.myths-table th:first-child,
+.myths-table td:first-child {
+    width: 40%;
+}
+
+.myths-table th:last-child,
+.myths-table td:last-child {
+    width: 60%;
+}
+
+@media (max-width: 600px) {
+    .myths-table {
+        font-size: 13px;
+    }
+
+    .myths-table th,
+    .myths-table td {
+        padding: 8px;
+    }
+}
+
 
 .scrolling {
     grid-column: 2;

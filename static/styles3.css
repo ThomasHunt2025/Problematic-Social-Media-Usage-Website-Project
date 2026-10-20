@@ -55,10 +55,8 @@ header h1 {
         50px
         50px
         180px
-        98px;
-    gap: 7px 9px;
-    width: 100%;
-    max-width: 1366px;
+        98px;        
+    width: 50%;
     margin: 0 auto;
 }
 

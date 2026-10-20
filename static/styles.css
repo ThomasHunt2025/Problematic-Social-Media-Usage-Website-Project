@@ -177,3 +177,17 @@ p {
 .pope {
     margin-bottom: 0;
 }
+
+.problem-box img {
+    width: 100%;
+    height: auto;
+    object-fit: contain;
+    display: block;
+}
+
+.problem-box.problematic,
+.problem-box.image {
+    height: auto;
+    min-height: 0;
+    overflow: visible;
+}

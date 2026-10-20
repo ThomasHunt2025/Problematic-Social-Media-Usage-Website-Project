@@ -1,3 +1,4 @@
+
 * {
     box-sizing: border-box;
 }
@@ -9,7 +10,6 @@ body {
     background: #030914;
     color: #00cfff;
 }
-
 
 nav {
     height: 54px;
@@ -35,7 +35,7 @@ nav a:hover {
 }
 
 header {
-    padding: 5px 16px 10px 16px;
+    padding: 5px 16px 10px;
 }
 
 header h1 {
@@ -45,79 +45,84 @@ header h1 {
     margin: 0;
 }
 
+
 .impacts-grid {
     display: grid;
-    
-    grid-template-columns: 360px 1fr;
-    
+    grid-template-columns: repeat(3, minmax(0, 1fr));
     grid-template-rows:
-        258px
-        258px
-        378px
-        378px
-        378px;
-    
-    gap: 12px 14px;
+        200px
+        200px
+        200px
+        200px
+        200px;
+    gap: 14px 20px;
+    padding: 0 9px;
 }
 
 .impacts-box {
     background: #061725;
     border: 1px solid #087fa5;
-    border-radius: 15px;
+    border-radius: 20px;
     position: relative;
     overflow: hidden;
+    min-width: 0;
 }
 
 .impacts-box span {
     display: block;
-    text-align: center;
-    font-size: 13px;
+    text-align: left;
+    font-size: 15px;
     line-height: 1.3;
-    padding: 7px 5px 0;
+    padding: 5px 8px 0;
 }
 
-.impacts-box global { 
+/* First row */
+
+.impacts-box.global {
     grid-column: 1;
     grid-row: 1;
 }
 
-.impacts-box NZ { 
-    grid-column: 1;
+.impacts-box.nz {
+    grid-column: 2;
     grid-row: 1;
 }
 
-.impacts-box positive { 
-    grid-column: 1;
+.impacts-box.positive {
+    grid-column: 3;
     grid-row: 1;
 }
 
-.impacts-box we { 
+/* Second row */
+
+.impacts-box.we {
     grid-column: 1;
     grid-row: 2;
 }
 
-.impacts-box schools {
-    grid-column: 1;
+.impacts-box.schools {
+    grid-column: 2;
     grid-row: 2;
 }
 
-.impacts-box governements {
-    grid-column: 1;
+.impacts-box.governments {
+    grid-column: 3;
     grid-row: 2;
 }
 
-.impacts-box companies {
-    grid-column: 1;
+/* Full-width boxes underneath */
+
+.impacts-box.companies {
+    grid-column: 1 / -1;
     grid-row: 3;
 }
 
-.impacts-box solutions {
-    grid-column: 1; 
-    grid-row: 4; 
+.impacts-box.solutions {
+    grid-column: 1 / -1;
+    grid-row: 4;
 }
 
-.impacts-box conclusion {
-    grid-column: 1;
+.impacts-box.conclusion {
+    grid-column: 1 / -1;
     grid-row: 5;
 }
-
