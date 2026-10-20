@@ -90,6 +90,11 @@
                 <td>Social media cannot affect your sleep.</td>
                 <td>Using social media late at night can reduce sleep time and disrupt healthy sleep routines.</td>
             </tr>
+            <tr>
+                <td>There are good and bad times to post</td>
+                <td>Understanding your brand and audience is the key to successful post timing</td> 
+            </tr>
+            <tr>
         </tbody>
     </table>
 </div>
@@ -131,9 +136,12 @@
                 scrolling, potentially contributing to problematic social media use and negatively affecting 
                 their daily lives.</p> 
             </div>
+                
 
             <div class="problem-box summary">
                 <span>My Summary</span>
+
+                <p>I personally think that we are too addicted to social media simply because </p>
             </div>
 
         </section>
