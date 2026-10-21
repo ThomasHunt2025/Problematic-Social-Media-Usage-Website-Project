@@ -63,8 +63,8 @@ main {
         250px
         250px
         355px
-        600px
-        250px;
+        750px
+        160px;
 
     gap: 12px 14px;
 }
@@ -189,6 +189,7 @@ main {
 .evidence {
     grid-column: 2;
     grid-row: 4;
+    text-align: center;
 }
 
 .summary {
@@ -196,3 +197,18 @@ main {
     grid-row: 5;
 }
 
+.expert-images {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 15px;
+    margin-top: 20px;
+    width: 100%;
+}
+
+.expert-images img:last-child {
+    width: 100%;
+    height: 380px;
+    border: 1px solid #00cfff;
+    border-radius: 20%;
+}
