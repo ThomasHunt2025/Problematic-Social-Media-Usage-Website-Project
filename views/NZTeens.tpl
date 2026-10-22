@@ -173,11 +173,26 @@
             <!-- Depression -->
             <div class="wellbeing-box depression">
                 <span>Depression</span>
+
+                <p>Depression is the third major digital wellbeing issue affecting New Zealand teenagers. 
+                Teens frequently view filtered, photoshopped, or cultured images of peers and influencers.
+                Comparing their everyday lives to fake ideals lowers slef-esteem and triggers feelings of
+                inadquacy. Spending hours online replaces real-world interaction, exercise, and skill-building. 
+                Lack of physical movement and deep, face-to-face empathy removes natural buffers against depression
+                Aspects such as likes, comments, and notifications triggers short bursts of dopamine. This creates
+                addictive cycle that leaves teens feeling empty or anxious when they are offline or do not get validation.
+                 Recommendation algorithms often trap struggling teens in feedback loops by pushing more content about sadness, 
+                 self-harm, or hopelessness once they search for or linger on those topics.</p> 
             </div>
 
             <!-- Cyberbullying -->
             <div class="wellbeing-box cyberbullying">
                 <span>Cyberbullying</span>
+
+                <p>The final major digital wellbeing issue affecting New Zealand teenagers is unexpectedly Cyberbullying.
+                Platforms such as TikTok allows teens to hide behind screens or fake accounts, reducing fear of immediate 
+                punishment and removing face-to-face empathy. Unlike traditional schoolyard bullying, digital harassment 
+                follows teens home and continue around the clock, leaving no space for relief. </p>
             </div>
 
             <!-- Large Image -->
