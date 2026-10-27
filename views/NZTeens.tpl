@@ -199,19 +199,46 @@
                 </p>
             </div>
 
-            <!-- Large Image -->
-            <div class="wellbeing-box large-image">
-                <span>Image</span>
-            </div>
+           <div class="wellbeing-box large-image">
+                <img src="/static/Statistics_Image.png"
+                    alt="Statistics showing problematic social media use among New Zealand teenagers">
+           </div>
 
             <!-- Statistics -->
             <div class="wellbeing-box statistics">
                 <span>Statistics explanation</span>
+
+                <p>The statistics you provided suggest that problematic social media use is a 
+                significant concern for New Zealand teenagers. Approximately 90% of NZ teenagers 
+                reportedly use social media, spending an average of 2.5 hours per day on these 
+                platforms. More concerningly, 22% of surveyed teenagers reportedly show signs of 
+                problematic, addictive-like social media use. Additionally, 49% say social media 
+                interferes with daily responsibilities such as homework, household chores and 
+                spending time with family.</p> 
+
+                <p>These findings suggest that sleep disruption and anxiety are among the most 
+                serious digital wellbeing concerns because they can affect teenagers' mental 
+                health, concentration and academic performance. Cyberbullying is also particularly 
+                concerning because online harassment can continue outside school hours, making it 
+                difficult for victims to escape negative interactions. Overall, these statistics 
+                highlight the importance of developing healthier social media habits and maintaining
+                 a balance between online activities and everyday life.
             </div>
 
             <!-- Local Impacts -->
             <div class="wellbeing-box local-impacts">
-                <span>Local impacts on communities</span>
+                <span>Local impacts(Positive and Negative) on communities</span>
+
+                <p>Some positive local impact includes inclusion for isolated groups and Civic Mobilization. 
+                Marginalized individuals, newcomers, or homebound residents find accessible peer support, identity 
+                affirmation, and local hobby groups online. Local causes, school board meetings, and municipal decisions 
+                gain higher visibility, encouraging grassroots civic participation.</p>
+
+                <p>Some negative local impacts include Youth Mental Health Strain, and Cyberbullying
+                within peer groups. Problematic overuse collerates heavilywith localised rises in adolescents 
+                anxiety, depression, sleep disruption, and low self-esteem. School and neibourhood networks 
+                frequently experience online harassment or social exclusion that follows youth into physical
+                classrooms. </p>
             </div>
 
         </section>
