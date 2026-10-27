@@ -26,7 +26,13 @@
         <div class="impacts-box global">
             <span>Global Impacts</span> 
 
-            <p></p> 
+            <p>Heavy and compulsive use of online platforms carries severe consequences for young people across 
+            multiple dimensions of their well-being. Mentally, this level of engagement doubles the risk of experiencing 
+            psychological distress, anxiety disorders, and clinical depression in adolescents and young adults. Physically, 
+            the prolonged sedentary behavior associated with excessive screen time correlates with physical fatigue, eye strain, 
+            carpal tunnel syndrome, and various weight-related health risks. Compounding these issues, these digital environments 
+            frequently act as primary vectors for online abuse, targeted humiliation, and coordinated cyberbullying, significantly 
+            escalating rates of psychological trauma among users.</p> 
         </div> 
 
         <div class="impacts-box NZ"> 
