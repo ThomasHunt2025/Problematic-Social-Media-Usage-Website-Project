@@ -25,6 +25,8 @@
 
         <div class="impacts-box global">
             <span>Global Impacts</span> 
+
+            <p></p> 
         </div> 
 
         <div class="impacts-box NZ"> 
