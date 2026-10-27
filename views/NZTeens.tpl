@@ -192,7 +192,11 @@
                 <p>The final major digital wellbeing issue affecting New Zealand teenagers is unexpectedly Cyberbullying.
                 Platforms such as TikTok allows teens to hide behind screens or fake accounts, reducing fear of immediate 
                 punishment and removing face-to-face empathy. Unlike traditional schoolyard bullying, digital harassment 
-                follows teens home and continue around the clock, leaving no space for relief. </p>
+                follows teens home and continue around the clock, leaving no space for relief. Constant scrolling and the 
+                chase for dopamine hits (likes, shares, and viral status) can drive adolescents to engage in riskier behavior. 
+                Some users bully others to gain peer acceptance, fit in, or signal social dominance. Cyberbullying can have serious 
+                consequences on teenagers' mental health, leading to increased anxiety, depression, low self-esteem and feelings of isolation.
+                </p>
             </div>
 
             <!-- Large Image -->
