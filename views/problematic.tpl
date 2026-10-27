@@ -90,16 +90,8 @@
                 <td>Social media cannot affect your sleep.</td>
                 <td>Using social media late at night can reduce sleep time and disrupt healthy sleep routines.</td>
             </tr>
-            <tr>
-                <td>There are good and bad times to post</td>
-                <td>Understanding your brand and audience is the key to successful post timing</td> 
-            </tr>
-            <tr>
-                <td>I need to be on every social media platform</td>
-                <td>Don't waste time on platforms that don't work</td> 
-            </tr> 
         </tbody>
-    </table> 
+    </table>
 </div>
             <div class="problem-box scrolling">
                 <span>“Scrolling our lives away” explanation</span>
@@ -121,7 +113,7 @@
                 media responsibly while maintaining a healthier balance in their daily lives.</p>
             </div>
 
-        <div class="problem-box evidence">
+            <div class="problem-box evidence">
                 <span>Experts Opinions on "Scrolling our Lives away" statement</span>
 
                 <p>1. Dr Anne Lembkes central opinion is that digital devices act like 
@@ -129,7 +121,7 @@
                 of digital drugs. She explains that social media and other digital activities 
                 stimulate the brain’s reward system, encouraging users to seek instant gratification. 
                 Over time, this can lead to excessive screen time, making it harder to disconnect and 
-                affecting sleep, schoolwork and relationships.</p>
+                affecting sleep, schoolwork and relationships.</p> 
 
                 <p>2. Tech ethicists Tristan Harris and Aza Raskin focus on how social media platforms 
                 are deliberately designed to capture and maintain users' attention. They explain that 
@@ -137,30 +129,12 @@
                 people to spend more time online. These features can make it difficult for users to stop 
                 scrolling, potentially contributing to problematic social media use and negatively affecting 
                 their daily lives.</p> 
-
-                <div class="expert-images">
-                     <div class="expert-image">
-                        <img src="/static/Dr-Anne-Lembke.jpg" alt="Dr Anne Lembke">
-                </div>
-
-                <div class="expert-image">
-                        <img src="/static/Tristan-Harris_and_Aza-Raskin.jpg" alt="Tristan Harris and Aza Raskin">
-                </div>
-            </div>  
-        </div>
-                
+            </div>
 
             <div class="problem-box summary">
                 <span>My Summary</span>
 
-                <p>I personally think that we are too addicted to social media simply because
-                we spend too much time scrolling through posts and videos instead of focusing 
-                on important activities in our daily lives. Social media platforms are designed 
-                to keep us entertained through algorithms, endless scrolling and constant notifications, 
-                making it difficult to disconnect. I believe this can negatively affect our mental health, 
-                sleep, school performance and relationships with others. Although social media has its benefits, 
-                I think we need to learn how to control our screen time and maintain a healthy balance between 
-                our online and real lives. </p>
+                <p>I personally think that we are a bit too addicted to social media </p> 
             </div>
 
         </section>
