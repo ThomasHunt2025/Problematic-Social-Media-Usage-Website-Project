@@ -50,11 +50,11 @@ header h1 {
     display: grid;
     grid-template-columns: repeat(3, minmax(0, 1fr));
     grid-template-rows:
-        250px
-        200px
-        200px
-        200px
-        200px;
+        489px
+        390px
+        390px
+        390px
+        390px;
     gap: 14px 20px;
     padding: 0 9px;
 }
