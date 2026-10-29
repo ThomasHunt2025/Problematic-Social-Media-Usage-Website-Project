@@ -26,7 +26,7 @@ def server_static(filename):
 
 # START SERVER
 
-if_name_ =="_main_":
+if__name__ =="__main__":
    import as
    app.run(
        host='0.0.0.0',
