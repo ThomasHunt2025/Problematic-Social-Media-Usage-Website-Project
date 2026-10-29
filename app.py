@@ -1,26 +1,40 @@
-from bottle import run, route, template, view, static_file 
+from bottle import Bottle, run, route, template, view, static_file 
 
-@route('/')
+app = Bottle()
+
+#ROUTES FOR PAGES 
+
+@app.route('/')
 def h():
     return template('home.tpl')
 
-@route('/problematic')
+@app.route('/problematic')
 def prob():
     return template('problematic.tpl')
 
-@route('/teens')
+@app.route('/teens')
 def teens():
     return template('NZTeens.tpl')
 
-@route('/impacts')
+@app.route('/impacts')
 def imp():
     return template('impacts.tpl')
 
-@route('/static/<filename>')
+@app.route('/static/<filename>')
 def server_static(filename):
     return static_file(filename, root='./static')
 
-run(host='localhost', port='8080', debug=True, reloader=True)
+# START SERVER
+
+if_name_ =="_main_":
+   import as
+   app.run(
+       host='0.0.0.0',
+       port=int(os.environ,get('PORT', 8080))
+       debug=False
+) 
+
+
 
 
 
